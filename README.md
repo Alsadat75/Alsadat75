@@ -4,7 +4,7 @@
 #### Apps Developer & Email Marketing Expert
 
 
-"👋 Hi, I'm Al Sadat Mission! I'm an experienced apps developer and email marketing expert, passionate about creating impactful solutions and driving growth through innovative strategies. Let's collaborate and build something amazing!"
+I'm an experienced apps developer and email marketing expert, passionate about creating impactful solutions and driving growth through innovative strategies. Let's collaborate and build something amazing!"
 
 Skills: JavaScript / C++ / Python / HTML 
 
